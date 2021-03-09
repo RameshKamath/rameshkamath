@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a Software Enginner with Experience in Computer Vision, Machine Learning, Web Full-Stack and Embedded Systems.
+
+I am Currently Working on SLAM, SFM and 2D-3D Algorithms.
+
+I am Currently learning deeper Computer Vision models.
+
+[![RameshKamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=RameshKamath&hide=issues&show_icons=true)](https://github.com/RameshKamath/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RameshKamath&layout=compact)](https://github.com/RameshKamath/github-readme-stats)
+
 <!--
 **RameshKamath/rameshkamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
