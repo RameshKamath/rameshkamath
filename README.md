@@ -8,28 +8,38 @@ I am Currently Exploring Deep learning and Computer Vision Papers.
 
 ---
 ## **Technologies and tools I Use**:
+<a>
+    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c-plusplus.svg">
+</a>
+<a>
+    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c.svg">
+</a>
+<a>
+    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/python.svg">
+</a>
 
-<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c-plusplus.svg">
+<a>
+    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/opencv.svg">
+</a>
 
-<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c.svg">
-
-<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/python.svg">
-
-
-<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/opencv.svg">
-
-<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/tensorflow.svg">
-
-<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/pytorch.svg">
-
-<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/nodejs-icon.svg">
-
+<a>
+    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/tensorflow.svg">
+</a>
+<a>
+    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/pytorch.svg">
+</a>
+<a>
+    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/nodejs-icon.svg">
+</a>
+<a>
 <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/react.svg">
-
+</a>
+<a>
 <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/docker-icon.svg">
-
+</a>
+<a>
 <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c-sharp.svg">
-
+</a>
 ---
 ## **Connect with me:**
 
