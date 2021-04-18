@@ -9,37 +9,37 @@ I am Currently Exploring Deep learning and Computer Vision Papers.
 ---
 ## **Technologies and tools I Use**:
 
-<img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c-plusplus.svg">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c-plusplus.svg">
 
-<img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c.svg">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c.svg">
 
-<img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/python.svg">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/python.svg">
 
 
-<img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/opencv.svg">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/opencv.svg">
 
-<img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/tensorflow.svg">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/tensorflow.svg">
 
-<img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/pytorch.svg">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/pytorch.svg">
 
-<img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/nodejs-icon.svg">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/nodejs-icon.svg">
 
-<img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/react.svg">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/react.svg">
 
-<img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/docker-icon.svg">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/docker-icon.svg">
 
-<img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c-sharp.svg">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c-sharp.svg">
 
 ---
 ## **Connect with me:**
 
 <a href="https://rameshkamath.github.io/">
-    <img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Connect/website.svg">
+    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Connect/website.svg">
 </a>
 
 
 <a href="https://www.linkedin.com/in/ramesh-kamath-ga/">
-    <img class="icon" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Connect/linkedin.svg">
+    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Connect/linkedin.svg">
 </a>
 
 ---
@@ -64,9 +64,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style>
-.icon {
-    width: 7rem
-}
-</style>
