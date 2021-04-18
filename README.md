@@ -8,51 +8,40 @@ I am Currently Exploring Deep learning and Computer Vision Papers.
 
 ---
 ## **Technologies and tools I Use**:
-<a>
-    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c-plusplus.svg">
-</a>
-<a>
-    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c.svg">
-</a>
-<a>
-    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/python.svg">
-</a>
-
-<a>
-    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/opencv.svg">
-</a>
-
-<a>
-    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/tensorflow.svg">
-</a>
-<a>
-    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/pytorch.svg">
-</a>
-<a>
-    <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/nodejs-icon.svg">
-</a>
-<a>
+<a href="#">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c-plusplus.svg">
+</a><a href="#">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c.svg">
+</a><a href="#">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/python.svg">
+</a><a href="#">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/opencv.svg">
+</a><a href="#">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/tensorflow.svg">
+</a><a href="#">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/pytorch.svg">
+</a><a href="#">
+<img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/nodejs-icon.svg">
+</a><a href="#">
 <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/react.svg">
-</a>
-<a>
+</a><a href="#">
 <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/docker-icon.svg">
-</a>
-<a>
+</a><a href="#">
 <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Tech_Tools/c-sharp.svg">
 </a>
+
 ---
 ## **Connect with me:**
 
 <a href="https://rameshkamath.github.io/">
     <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Connect/website.svg">
 </a>
-
-
 <a href="https://www.linkedin.com/in/ramesh-kamath-ga/">
     <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Connect/linkedin.svg">
 </a>
 
 ---
+
 ## **Stats**
 
 [![RameshKamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=RameshKamath&hide=issues&show_icons=true)](https://github.com/RameshKamath/github-readme-stats)
