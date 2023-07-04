@@ -33,9 +33,9 @@ I am Currently Exploring Deep learning and Computer Vision Papers.
 ---
 ## **Connect with me:**
 
-<a href="https://rameshkamath.github.io/">
+<!--a href="https://rameshkamath.github.io/">
     <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Connect/website.svg">
-</a>
+</a-->
 <a href="https://www.linkedin.com/in/ramesh-kamath-ga/">
     <img width="100px" src="https://raw.githubusercontent.com/RameshKamath/rameshkamath/main/Icons/Connect/linkedin.svg">
 </a>
@@ -44,7 +44,7 @@ I am Currently Exploring Deep learning and Computer Vision Papers.
 
 ## **Stats**
 
-#[![RameshKamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=RameshKamath&hide=issues&show_icons=true)](https://github.com/RameshKamath/github-readme-stats)
+[![RameshKamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=RameshKamath&hide=issues&show_icons=true)](https://github.com/RameshKamath/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RameshKamath&layout=compact)](https://github.com/RameshKamath/github-readme-stats)
 
 ---
