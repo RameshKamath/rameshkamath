@@ -1,8 +1,8 @@
 ## **Hi there, I am Ramesh** 👋.
 
-I am a Software Enginner with Experience in Computer Vision, Machine Learning, Web Full-Stack and Embedded Systems.
+I am a Software Enginner with Experience in Computer Vision, Machine Learning, SLAM&SFM, 3D Algorithms, Web Full-Stack and Embedded Systems.
 
-I am Currently Working on SLAM, SFM and 2D-3D Algorithms.
+I am Currently Working on Neural Network Optimization.
 
 I am Currently Exploring Deep learning and Computer Vision Papers.
 
